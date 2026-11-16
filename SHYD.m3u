@@ -195,13 +195,13 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8  
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/风云足球.png" ,风云足球
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001590/index.m3u8
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/央视台球.png" ,央视台球
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/CCTV央视台球.png" ,央视台球
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001600/index.m3u8
-#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/兵器科技.png" ,兵器科技
+#EXTINF:-1 tvg-name="兵器科技" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/CCTV兵器科技.png" ,兵器科技
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001610/index.m3u8
-#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/世界地理.png" ,世界地理
+#EXTINF:-1 tvg-name="世界地理" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/CCTV世界地理.png" ,世界地理
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001620/index.m3u8
-#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/女性时尚.png" ,女性时尚
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/CCTV女性时尚.png" ,女性时尚
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001571/index.m3u8
 #EXTINF:-1 tvg-name="高尔夫网球" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/高尔夫网球.png" ,高尔夫网球
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001630/index.m3u8
