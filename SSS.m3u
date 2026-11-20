@@ -147,6 +147,8 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001582/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001690/index.m3u8
 #EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/大湾区卫视.png" group-title="卫视频道",大湾区卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/南国都市.png" group-title="卫视频道",南国都市
+https://tencentplaywebsite.gztv.com/live/nanguodushi.m3u8?txSecret=2691adf229394fbc14298c7cd054756a&txTime=195cd5988ae
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/中国教育-1.png" group-title="卫视频道",CETV-1
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://gh-proxy.org/https://github.com/FGX688/FGX/blob/main/TB/中国教育-2.png" group-title="卫视频道",CETV-2
